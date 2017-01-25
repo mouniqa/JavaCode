@@ -1,3 +1,4 @@
+//This is Even or Odd code
 import java.util.Scanner;
 class EvenOrOdd{
   public static void main(String[] args) {
