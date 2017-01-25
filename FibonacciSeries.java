@@ -2,7 +2,7 @@
 package main;
 
 public class FibonacciSeries {
-
+	//Main method starts
 	public static void main(String[] args) {
 		// 0,1,1,2,3,5,8....
 		int n1=0;
