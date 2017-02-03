@@ -1,4 +1,5 @@
 //This is Even or Odd code
+//Wriiten by Mouniqa
 import java.util.Scanner;
 class EvenOrOdd{
   public static void main(String[] args) {
